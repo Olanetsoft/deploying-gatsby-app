@@ -4,7 +4,7 @@ const contentfulConfig = {
 	spaceId: process.env.CONTENTFUL_SPACE_ID,
 	accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
 };
-
+//edited
 module.exports = {
 	siteMetadata: {
 		title: `Starter Blog`,
